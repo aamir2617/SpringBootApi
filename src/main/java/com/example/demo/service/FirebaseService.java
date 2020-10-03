@@ -6,7 +6,7 @@ import org.springframework.stereotype.Service;
 public class FirebaseService {
 	
 	public String getMessage() {
-		return "api called successfully";
+		return "success message";
 	}
 
 }
